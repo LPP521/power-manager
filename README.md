@@ -10,3 +10,6 @@
 * setproctitle
 * urllib3
 * python-dracclient
+
+后端需要连接数据库 只需要提供必须的几个表字段就可以了 
+必须的字段看配置文件这部分的配置
